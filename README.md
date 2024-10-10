@@ -1,2 +1,2 @@
-# -Chat-GPT
+# ChatGPT
 해달 ChatGPT
